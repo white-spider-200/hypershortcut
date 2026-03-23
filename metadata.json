@@ -1,0 +1,5 @@
+{
+  "name": "Hyprland Shortcut Builder",
+  "description": "Visually build and manage your Hyprland keyboard shortcuts with real-time keyboard capture and conflict detection.",
+  "requestFramePermissions": []
+}
